@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "155754348439",
+    "firebase_url": "https://passcashtt.firebaseio.com",
+    "project_id": "passcashtt",
+    "storage_bucket": "passcashtt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155754348439:android:e2bebf7c61b63967d10ed2",
+        "android_client_info": {
+          "package_name": "com.examp.mypasscash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155754348439-633habbeffri1cjgfnfrn6hcnqajt9j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGgkv8AGv0B_3URzv2FyHsTEuDEQg7y8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155754348439-633habbeffri1cjgfnfrn6hcnqajt9j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155754348439:android:b3ef3bef3c9f6538d10ed2",
+        "android_client_info": {
+          "package_name": "com.passcash.personaldashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155754348439-633habbeffri1cjgfnfrn6hcnqajt9j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGgkv8AGv0B_3URzv2FyHsTEuDEQg7y8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155754348439-633habbeffri1cjgfnfrn6hcnqajt9j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

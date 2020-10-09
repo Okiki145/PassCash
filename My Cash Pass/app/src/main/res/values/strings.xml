@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Personal Dashboard</string>
+    <string name="recieve">Recieve</string>
+    <string name="pass_cash">Pass Cash</string>
+</resources>
